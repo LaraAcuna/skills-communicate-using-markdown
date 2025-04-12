@@ -8,3 +8,9 @@
 String saludo = "hola!";
 System.out.println(saludo);
 ```
+
+#### Agregando una lista de tareas
+
+- [x] Preparar la comida
+- [ ] Hacer la tarea
+- [ ] Leer el libro
